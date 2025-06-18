@@ -4,7 +4,7 @@ Mi nombre es **Miguel Ángel Pérez García** y en este examen voy a poner en pr
 
 ## Algunas de las cosas que tendré que hacer serán
 
-. Crear repositorios locales
+- Crear repositorios locales
 - Realizar commits
 - Trabajar con ramas
 
